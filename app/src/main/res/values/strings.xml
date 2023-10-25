@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dices</string>
+    <string name="TitleResult">Results</string>
+    <string name="Title">Dices</string>
+    <string name="NumDice">Number of Dice</string>
+    <string name="NumFace">Number of Faces</string>
+    <string name="Throw">Throw</string>
+    <string name="Throw2">Throw Again</string>
+    <string name="Result">0__0</string>
+</resources>

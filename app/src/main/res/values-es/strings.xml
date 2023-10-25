@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="TitleResult">Resultado:</string>
+    <string name="Title">Dados</string>
+    <string name="NumDice">Numero de Dados</string>
+    <string name="NumFace">Numero de Caras</string>
+    <string name="Throw">Lanzar</string>
+    <string name="Throw2">Volver a Lanzar</string>
+    <string name="Result">0__0</string>
+
+</resources>
